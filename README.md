@@ -2,7 +2,7 @@
 
 ### Hello there 🤗
 
-I'm Kerem, a Computer Wngineering student and I'm currently learning about several fields to find one to specialize. My favourites nowadays are Front-end and Back-end of web development as well as the field of Artificial Intelligence.
+I'm Kerem, a Computer Engineering student and I'm currently learning about several fields to find one to specialize. My favourites nowadays are Front-end and Back-end of web development as well as the field of Artificial Intelligence.
 
 My hobbies include:
 - 🎨 Digital Art
