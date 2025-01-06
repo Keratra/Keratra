@@ -2,10 +2,10 @@
 
 ### Hello there 🤗
 
-I'm Kerem, a Computer Engineering student and I'm currently learning about several fields to find one to specialize. My favourites nowadays are Front-end and Back-end of web development as well as the field of Artificial Intelligence.
+Hi, I'm Kerem! I'm exploring various fields to find my passion and enhance my skills. My current favorites include Front-end (with hands-on experience in Vue.JS, React.JS, and Next.JS), Back-end, as well as a growing interest in Artificial Intelligence. 
 
 My hobbies include:
-- 🎨 Digital Art
+- 🎨 Traditional & Digital Art
 - 🕹 Making Video Games
 - 🖼 Creating Art with Code
 - 🌱 Nature Walks
